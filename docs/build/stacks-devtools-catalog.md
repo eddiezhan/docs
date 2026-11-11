@@ -73,6 +73,7 @@ Official Stacks devtools are built and maintained by either **Stacks Labs** or *
 * [**x402-Stacks**](https://github.com/tony1908/x402Stacks) - A TypeScript library for implementing the x402 payment protocol on Stacks blockchain.&#x20;
 * [**StacksAgent MCP**](https://github.com/kai-builder/stacksagent-mcp) - A Model Context Protocol (MCP) server that enables Claude Desktop to interact with the Stacks blockchain.
 * [**AIBTC**](https://github.com/aibtcdev) - AI agent tooling for Stacks.
+* [**Chain.Love**](https://stacks.chain.love/toolbox/apis) - An open-source infrastructure directory for discovering Stacks API providers and other services. Check provider documentation for current endpoints, pricing, and limits before integrating.
 
 </details>
 
